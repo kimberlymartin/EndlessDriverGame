@@ -1,0 +1,4 @@
+High score: 405
+Difficulty: 12
+Car model: 6
+Sensitivity: 1
